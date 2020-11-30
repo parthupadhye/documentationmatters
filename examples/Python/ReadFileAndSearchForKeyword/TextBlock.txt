@@ -1,0 +1,3 @@
+Python has recently overtaken Java to become the second most popular programming language in the world. Most news articles and people give examples of its penetration in the software development world, however that is simply the tip of it.
+For those who may remember, Visual Basic also took the world by storm in much the same way. VB made it possible for users to convert MS Word and Excel into customized applications. This was way before Access and of course the proliferation of web-based applications.
+Unlike Java, Python can be installed on an average PC by using a few commands. It installs very smoothly on tablets with Linux; and with a small footprint Python gives users the power to write and run programs.
